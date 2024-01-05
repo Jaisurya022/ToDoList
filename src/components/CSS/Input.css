@@ -1,0 +1,33 @@
+.para-1{
+
+    display: flex; 
+    margin-top: 1rem;
+    margin-bottom: 1rem; 
+    flex-direction: column; 
+    gap: 0.25rem; 
+    
+
+}
+.input-lable{
+
+    font-size: 0.875rem;
+    line-height: 1.25rem; 
+    font-weight: 700; 
+    text-transform: uppercase; 
+    
+
+}
+
+.text-area {
+    padding: 0.25rem; 
+    border-radius: 0.125rem; 
+    border-bottom-width: 2px; 
+     
+}
+
+.inpu-t{
+    padding: 0.25rem; 
+border-radius: 0.125rem; 
+border-bottom-width: 2px; 
+
+}

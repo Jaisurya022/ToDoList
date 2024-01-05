@@ -1,0 +1,27 @@
+
+
+.new-project{
+
+    margin-top: 4rem;
+    width: 35rem;
+}
+
+.new-project-manu{
+
+    display: flex; 
+    margin-top: 1rem;
+    margin-bottom: 1rem; 
+    gap: 1rem; 
+    justify-content: flex-end; 
+    align-items: center; 
+   
+}
+
+.modal-head{
+
+
+}
+
+.modal-para{
+
+}

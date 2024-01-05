@@ -1,0 +1,36 @@
+
+
+.selected-project{
+
+    margin-top: 4rem; 
+    width: 35rem;
+
+}
+
+.select-head{
+    padding-bottom: 1rem; 
+    margin-bottom: 1rem; 
+    border-bottom-width: 2px; 
+
+}
+.select-div{
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+
+}
+
+.select-h {
+    margin-bottom: 0.5rem; 
+    font-size: 1.875rem;
+    line-height: 2.25rem; 
+    font-weight: 700; 
+    
+
+}
+
+.select-p {
+
+    margin-bottom: 1rem; 
+
+}

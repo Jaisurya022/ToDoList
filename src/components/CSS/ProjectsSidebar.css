@@ -1,0 +1,19 @@
+
+
+.side-bar{
+
+    padding-left: 2rem;
+    padding-right: 2rem; 
+    padding-top: 4rem;
+    padding-bottom: 4rem; 
+    border-top-right-radius: 0.75rem;
+    border-bottom-right-radius: 0.75rem; 
+    width: 33.333333%; 
+    background-color: aqua;
+    
+    
+    @media (min-width: 768px) { 
+      width: 18rem; 
+     }
+    
+}
